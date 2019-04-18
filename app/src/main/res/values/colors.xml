@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="asus_audiowizard2_background">#6737D4</color>
+    <color name="asus_gallery2_background">#F8F8F8</color>
+    <color name="asus_mini_movie2_background">#71246F</color>
+    <color name="asus_settings2_background">#425466</color>
+    <color name="asus_sound_recorder2_background">#2C2E31</color>
+</resources>

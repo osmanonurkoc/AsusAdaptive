@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <category title="Asus" />
+    <item drawable="asus_audiowizard" />
+    <item drawable="asus_calculator" />
+    <item drawable="asus_camera" />
+    <item drawable="asus_clock" />
+    <item drawable="asus_contacts" />
+    <item drawable="asus_data_transfer" />
+    <item drawable="asus_files" />
+    <item drawable="asus_gallery" />
+    <item drawable="asus_game_genie" />
+    <item drawable="asus_help" />
+    <item drawable="asus_messages" />
+    <item drawable="asus_mini_movie" />
+    <item drawable="asus_mobile_manager" />
+    <item drawable="asus_pagemarker" />
+    <item drawable="asus_phone" />
+    <item drawable="asus_radio" />
+    <item drawable="asus_selfie_master" />
+    <item drawable="asus_settings" />
+    <item drawable="asus_sound_recorder" />
+    <item drawable="asus_splendid" />
+    <item drawable="asus_themes" />
+    <item drawable="asus_video" />
+    <item drawable="asus_weather" />
+
+    <category title="Asus Old" />
+    <item drawable="asus_audiowizard2" />
+    <item drawable="asus_browser" />
+    <item drawable="asus_calculator2" />
+    <item drawable="asus_calendar" />
+    <item drawable="asus_camera2" />
+    <item drawable="asus_clock2" />
+    <item drawable="asus_contacts2" />
+    <item drawable="asus_do_it_later" />
+    <item drawable="asus_files2" />
+    <item drawable="asus_flashlight" />
+    <item drawable="asus_gallery2" />
+    <item drawable="asus_game_genie2" />
+    <item drawable="asus_help2" />
+    <item drawable="asus_mail" />
+    <item drawable="asus_memo" />
+    <item drawable="asus_messages2" />
+    <item drawable="asus_mini_movie2" />
+    <item drawable="asus_music" />
+    <item drawable="asus_pagemarker2" />
+    <item drawable="asus_phone2" />
+    <item drawable="asus_safeguard" />
+    <item drawable="asus_settings2" />
+    <item drawable="asus_sound_recorder2" />
+    <item drawable="asus_supernote" />
+    <item drawable="asus_weather2" />
+</resources>

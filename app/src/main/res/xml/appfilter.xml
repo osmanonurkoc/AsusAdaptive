@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- Asus Dynamic Clock -->
+    <dynamic-clock drawable="asus_clock"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        defaultHour="10"
+        defaultMinute="10" />
+
+    <!-- Asus Dynamic Clock (old) -->
+    <dynamic-clock drawable="asus_clock2"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        defaultHour="10"
+        defaultMinute="10" />
+
+
+    <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="asus_clock" />
+
+    <!-- Global -->
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="asus_calendar" />
+    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="asus_calculator" />
+    <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="asus_camera"/>
+    <item component="ComponentInfo{com.android.camera/com.android.camera.CameraEntry}" drawable="asus_camera"/>
+    <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="asus_camera"/>
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="asus_clock" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="asus_contacts" />
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="asus_phone" />
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="asus_phone" />
+    <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="asus_files" />
+    <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="asus_mail" />
+    <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}" drawable="asus_gallery" />
+    <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="asus_gallery" />
+    <item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="asus_messages" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="asus_messages" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.BootActivity}" drawable="asus_messages" />
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="asus_settings" />
+    <item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}" drawable="asus_radio" />
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="asus_sound_recorder" />
+
+    <!-- Google -->
+    <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="asus_clock" />
+    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="asus_browser" />
+    <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="asus_camera" />
+    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="asus_calendar" />
+    <calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="asus_calculator" />
+    <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="asus_contacts" />
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="asus_phone" />
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="asus_messages" />
+    <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="asus_gallery" />
+
+    <!-- Asus -->
+    <item component="ComponentInfo{com.asus.maxxaudio.audiowizard/com.asus.maxxaudio.audiowizard.MainActivity}" drawable="asus_audiowizard" />
+    <item component="ComponentInfo{com.asus.browser/com.android.browser.BrowserActivity}" drawable="asus_browser" />
+    <item component="ComponentInfo{com.asus.calendar/com.android.calendar.AllInOneActivity}" drawable="asus_calendar" />
+    <calendar component="ComponentInfo{com.asus.calendar/com.android.calendar.AllInOneActivity}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{com.asus.calculator/com.asus.calculator.Calculator}" drawable="asus_calculator" />
+    <item component="ComponentInfo{com.asus.camera/com.asus.camera.CameraApp}" drawable="asus_camera" />
+    <item component="ComponentInfo{com.asus.deskclock/com.asus.deskclock.DeskClock}" drawable="asus_clock" />
+    <item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.PeopleActivity}" drawable="asus_contacts" />
+    <item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="asus_phone" />
+    <item component="ComponentInfo{com.asus.filemanager/com.asus.filemanager.activity.FileManagerActivity}" drawable="asus_files" />
+    <item component="ComponentInfo{com.asus.gallery/com.asus.gallery.app.EPhotoActivity}" drawable="asus_gallery" />
+    <item component="ComponentInfo{com.asus.email/com.android.email.activity.Welcome}" drawable="asus_mail" />
+    <item component="ComponentInfo{com.asus.message/com.android.mms.ui.ConversationList}" drawable="asus_messages" />
+    <item component="ComponentInfo{com.asus.quickmemo/com.asus.quickmemo.activities.edit.MemoEditActivity}" drawable="asus_memo" />
+    <item component="ComponentInfo{com.asus.supernote/com.asus.supernote.picker.NoteBookPickerActivity}" drawable="asus_supernote" />
+    <item component="ComponentInfo{com.asus.music/com.asus.music.MusicMainActivity}" drawable="asus_music" />
+    <item component="ComponentInfo{com.asus.fmradio/com.asus.fmradio.FMRadioUIv3}" drawable="asus_radio" />
+    <item component="ComponentInfo{com.asus.fmradio/com.asus.fmradio.FMRadioUIv2}" drawable="asus_radio" />
+    <item component="ComponentInfo{com.asus.soundrecorder/com.asus.soundrecorder.AsusRecorder}" drawable="asus_sound_recorder" />
+    <item component="ComponentInfo{com.asus.task/com.asus.task.activity.TaskActivity}" drawable="asus_doit" />
+    <item component="ComponentInfo{com.asus.microfilm/com.asus.microfilm.tab.TabMainActivity}" drawable="asus_mini_movie" />
+    <item component="ComponentInfo{com.asus.weathertime/com.asus.weathertime.WeatherTimeSettings}" drawable="asus_weather" />
+    <item component="ComponentInfo{com.asus.flashlight/com.asus.flashlight.FlashLightMainActivity}" drawable="asus_flashlight" />
+    <item component="ComponentInfo{com.asus.themeapp/com.asus.themeapp.ThemeAppActivity}" drawable="asus_themes" />
+
+    <!-- Essential -->
+    <item component="ComponentInfo{com.essential.klik/com.essential.klik.Camera}" drawable="asus_camera" />
+
+    <!-- Mediatek -->
+    <item component="ComponentInfo{com.mediatek.camera/com.android.camera.CameraLauncher}" drawable="asus_camera" />
+    <item component="ComponentInfo{com.mediatek.filemanager/com.mediatek.filemanager.FileManagerOperationActivity}" drawable="asus_files" />
+    <item component="ComponentInfo{com.mediatek.FMRadio/com.mediatek.FMRadio.FMRadioActivity}" drawable="asus_radio" />
+
+    <!-- HTC -->
+    <item component="ComponentInfo{com.htc.sense.browser/com.htc.sense.browser.BrowserActivity}" drawable="asus_browser" />
+    <item component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" drawable="asus_calendar" />
+    <calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{com.htc.camera2/com.htc.camera2.CameraEntry}" drawable="asus_camera"/>
+    <item component="ComponentInfo{com.htc.camera/com.htc.camera.CameraEntry}" drawable="asus_camera" />
+    <item component="ComponentInfo{com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl}" drawable="asus_clock" />
+    <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="asus_contacts" />
+    <item component="ComponentInfo{com.android.incallui/com.android.incallui.DialerLauncher}" drawable="asus_phone" />
+    <item component="ComponentInfo{com.htc.filemanager/com.htc.filemanager.FileManagerActivity}" drawable="asus_files" />
+    <item component="ComponentInfo{com.htc.album/com.htc.album.AlbumMain.ActivityMainTabHost}" drawable="asus_gallery" />
+    <item component="ComponentInfo{com.htc.album/com.htc.photoenhancer.LandingPage}" drawable="asus_gallery" />
+    <item component="ComponentInfo{com.htc.android.mail/com.htc.android.mail.MultipleActivitiesMain}" drawable="asus_mail" />
+    <item component="ComponentInfo{com.htc.android.mail/com.htc.android.mail.MailListTab}" drawable="asus_mail" />
+    <item component="ComponentInfo{com.htc.sense.mms/com.htc.sense.mms.ui.ConversationList}" drawable="asus_messages" />
+    <item component="ComponentInfo{com.htc.lucy/com.htc.lucy.editor.LandingActivity}" drawable="asus_memo" />
+    <item component="ComponentInfo{com.htc.music/com.htc.music.browserlayer.MusicBrowserTabActivity}" drawable="asus_music" />
+    <item component="ComponentInfo{com.htc.fm/com.htc.fm.ap.activity.FMRadioMain}" drawable="asus_radio" />
+    <item component="ComponentInfo{com.htc.soundrecorder/com.htc.soundrecorder.SoundRecorderBG}" drawable="asus_sound_recorder" />
+    <item component="ComponentInfo{com.android.settings/com.android.settings.framework.activity.HtcSettings}" drawable="asus_settings" />
+    <item component="ComponentInfo{com.htc.flashlight/com.htc.flashlight.FlashlightActivity}" drawable="flashlight" />
+    <item component="ComponentInfo{com.htc.Weather/com.htc.Weather.WeatherEntry}" drawable="asus_weather" />
+    <item component="ComponentInfo{com.htc.Weather/com.htc.Weather.WeatherEntryAlias}" drawable="asus_weather"/>
+
+    <!-- Huawei -->
+    <item component="ComponentInfo{com.huawei.camera/com.huawei.camera}" drawable="asus_camera"/>
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmsMainActivity}" drawable="asus_clock" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="asus_phone" />
+    <item component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}" drawable="asus_files" />
+    <item component="ComponentInfo{com.android.gallery3d/com.huawei.gallery.app.GalleryMain}" drawable="asus_gallery" />
+    <item component="ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}" drawable="asus_memo" />
+    <item component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}" drawable="asus_settings" />
+    <item component="ComponentInfo{com.android.systemui/com.android.systemui.flashlight.FlashlightActivity}" drawable="asus_flaslight"/>
+    <item component="ComponentInfo{com.huawei.android.FMRadio/com.huawei.android.FMRadio.FMRadioMainActivity}" drawable="asus_radio"/>
+    <item component="ComponentInfo{com.huawei.android.FMRadio/com.huawei.android.FMRadio.FmRadioActivity}" drawable="asus_radio"/>
+    <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="asus_music"/>
+    <item component="ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}" drawable="asus_supernote"/>
+    <item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.HwThemeManagerActivity}" drawable="asus_themes"/>
+    <item component="ComponentInfo{com.huawei.hwvplayer/com.huawei.hwvplayer.framework.MainActivity}" drawable="asus_video"/>
+    <item component="ComponentInfo{com.huawei.android.totemweather/com.huawei.android.totemweather.WeatherHome}" drawable="asus_weather"/>
+
+    <!-- LG -->
+    <item component="ComponentInfo{com.lge.camera/com.lge.camera.CameraAppLauncher}" drawable="asus_camera"/>
+    <item component="ComponentInfo{com.lge.clock/com.lge.clock.AlarmClockActivity}" drawable="asus_clock" />
+    <item component="ComponentInfo{com.lge.filemanager/com.lge.filemanager.view.LaunchActivity}" drawable="asus_files" />
+    <item component="ComponentInfo{com.lge.email/com.lge.email.ui.setupwizard.Welcome}" drawable="asus_mail" />
+    <item component="ComponentInfo{com.lge.qmemoplus/com.lge.qmemoplus.ui.main.MainActivity}" drawable="asus_memo" />
+    <item component="ComponentInfo{com.lge.music/com.lge.music.MusicBrowserActivity}" drawable="asus_music" />
+    <item component="ComponentInfo{com.lge.fmradio/com.lge.fmradio.IntroActivity}" drawable="asus_radio" />
+    <item component="ComponentInfo{com.lge.voicerecorder/com.lge.voicerecorder.VoiceRecorder}" drawable="asus_sound_recorder" />
+    <item component="ComponentInfo{com.lge.voicerecorder/com.lge.voicerecorder.LaunchVoiceRecorder}" drawable="asus_sound_recorder"/>
+    <item component="ComponentInfo{com.lge.hifirecorder/com.lge.hifirecorder.LaunchHifiRecorder}" drawable="asus_sound_recorder"/>
+    <item component="ComponentInfo{com.LgG4.camera/com.geak.camera.MainActivity}" drawable="asus_camera" />
+
+    <!-- Lenovo -->
+    <item component="ComponentInfo{com.lenovo.scg/com.lenovo.scg.camera.CameraLauncher}" drawable="asus_camera"/>
+    <item component="ComponentInfo{com.thundersoft.ucam/com.android.camera.CameraLauncher}" drawable="asus_camera" />
+    <item component="ComponentInfo{com.lenovo.deskclock/com.lenovo.deskclock.DeskClock}" drawable="asus_clock" />
+    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.PeopleActivity}" drawable="asuscontacts" />
+    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.DialtactsActivity}" drawable="asus_phone" />
+    <item component="ComponentInfo{com.lenovo.FileBrowser/com.lenovo.FileBrowser.activities.FileBrowserMain}" drawable="asus_files" />
+    <item component="ComponentInfo{com.lenovo.gallery/com.lenovo.gallery.app.GalleryActivity}" drawable="asus_gallery" />
+    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.MmsActivity}" drawable="asus_messages" />
+    <item component="ComponentInfo{com.lenovo.music/com.lenovo.music.ui.LeAppLoadingActivity}" drawable="asus_music" />
+    <item component="ComponentInfo{com.lenovo.fm/com.lenovo.fm.LenovoMainActivity}" drawable="asus_radio" />
+    <item component="ComponentInfo{com.lenovo.recorder/com.lenovo.recorder.SoundRecorder}" drawable="asus_sound_recorder" />
+    <item component="ComponentInfo{com.lenovo.themecenter/com.lenovo.themecenter.LoadingActivity}" drawable="asus_themes" />
+
+
+    <!-- Motorola -->
+    <item component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}" drawable="asus_camera" />
+    <item component="ComponentInfo{com.motorola.cameraone/com.motorola.camera.Camera}" drawable="asus_camera" />
+    <item component="ComponentInfo{com.motorola.camera1/com.motorola.camera.Camera}" drawable="asus_camera" />
+    <item component="ComponentInfo{com.motorola.camera2/com.motorola.camera.Camera}" drawable="asus_camera" />
+    <item component="ComponentInfo{com.lenovo.FileBrowser2/com.lenovo.FileBrowser.activities.FileBrowserMain}" drawable="asus_files" />
+    <item component="ComponentInfo{com.motorola.MotGallery2/com.android.gallery3d.app.GalleryActivity}" drawable="asus_gallery" />
+    <item component="ComponentInfo{com.motorola.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="asus_messages" />
+    <item component="ComponentInfo{com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity}" drawable="asus_radio" />
+    <item component="ComponentInfo{com.motorola.fmplayer/com.motorola.fmplayer.FMMainActivity}" drawable="asus_radio"/>
+    <item component="ComponentInfo{com.motorola.email/com.android.email.activity.ComposeActivityEmail}" drawable="asus_mail" />
+
+    <!-- Nextbit -->
+    <item component="ComponentInfo{com.nextbit.camera/com.nextbit.camera.ui.CameraActivity}" drawable="asus_camera" />
+    <item component="ComponentInfo{com.nextbit.gallery/com.nextbit.gallery.main.MainActivity}" drawable="asus_gallery" />
+
+    <!-- OnePlus -->
+    <item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" drawable="asus_calendar" />
+    <calendar component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" drawable="asus_calculator" />
+    <item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="asus_camera"/>
+    <item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" drawable="asus_clock" />
+    <item component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="asus_contacts" />
+    <item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="asus_phone" />
+    <item component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}" drawable="asus_files" />
+    <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" drawable="asus_gallery" />
+    <item component="ComponentInfo{com.oneplus.note/com.oneplus.note.ui.MainActivity}" drawable="asus_memo" />
+    <item component="ComponentInfo{net.oneplus.music/net.oneplus.music.activity.MainActivity}" drawable="asus_music" />
+    <item component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" drawable="asus_sound_recorder" />
+
+    <!-- Oppo -->
+    <item component="ComponentInfo{com.oppo.camera/com.oppo.camera.Camera}" drawable="asus_camera" />
+    <item component="ComponentInfo{com.oppo.alarmclock/com.oppo.alarmclock.AlarmClock}" drawable="asus_clock" />
+    <item component="ComponentInfo{com.android.email/com.kingsoft.email.activity.Welcome}" drawable="asus_mail" />
+    <item component="ComponentInfo{com.oppo.filemanager/com.oppo.filemanager.Main}" drawable="asus_files" />
+    <item component="ComponentInfo{com.oppo.gallery3d/com.oppo.gallery3d.app.Gallery}" drawable="asus_gallery" />
+    <item component="ComponentInfo{com.android.settings/com.oppo.settings.SettingsActivity}" drawable="asus_settings" />
+    <item component="ComponentInfo{com.oppo.music/com.oppo.music.MainListActivity}" drawable="asus_music" />
+    <item component="ComponentInfo{com.oppo.safe/com.oppo.safe.SecureSafeMainActivity}" drawable="asus_safeguard" />
+    <item component="ComponentInfo{com.nearme.themespace/com.nearme.themespace.activities.ThemeActivity}" drawable="asus_themes" />
+
+    <!-- Samsung -->
+    <item component="ComponentInfo{com.sec.android.app.sbrowser.beta/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="asus_browser" />
+    <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="asus_browser" />
+    <item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="asus_calendar" />
+    <calendar component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{com.sec.android.app.calculator/com.sec.android.app.calculator.calculator.Calculator}" drawable="asus_calculator" />
+    <item component="ComponentInfo{com.sec.android.app.calculator/com.sec.android.app.calculator.Calculator}" drawable="asus_calculator" />
+    <item component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}" drawable="asus_calculator" />
+    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="asus_camera"/>
+    <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="asus_clock" />
+    <item component="ComponentInfo{com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="asus_contacts" />
+    <item component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}" drawable="asus_phone" />
+    <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity}" drawable="asus_files" />
+    <item component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryOpaqueActivity}" drawable="asus_gallery" />
+    <item component="ComponentInfo{com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL}" drawable="asus_mail" />
+    <item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="asus_messages" />
+    <item component="ComponentInfo{com.samsung.android.app.notes/com.samsung.android.app.notes.memolist.MemoListActivity}" drawable="asus_memo" />
+    <item component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity}" drawable="asus_music" />
+    <item component="ComponentInfo{com.sec.android.app.fm/com.sec.android.app.fm.MainActivity}" drawable="asus_radio" />
+    <item component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}" drawable="asus_sound_recorder" />
+    <item component="ComponentInfo{com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList}" drawable="asus_video" />
+    <item component="ComponentInfo{com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher}" drawable="asus_themes" />
+    <item component="ComponentInfo{com.samsung.android.snote/com.samsung.android.snote.control.ui.filemanager.MainHomeActivity}" drawable="notes" />
+
+    <!-- Sony -->
+    <item component="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}" drawable="asus_calendar" />
+    <calendar component="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="asus_camera"/>
+    <item component="ComponentInfo{com.sonyericsson.organizer/com.sonyericsson.organizer.Organizer}" drawable="asus_clock" />
+    <item component="ComponentInfo{com.sonymobile.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="asus_contacts" />
+    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.DialtactsActivity}" drawable="asus_phone" />
+    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="asus_phone" />
+    <item component="ComponentInfo{com.sonyericsson.album/com.sonyericsson.album.MainActivity}" drawable="asus_gallery" />
+    <item component="ComponentInfo{com.sonymobile.email/com.sonymobile.email.activity.Welcome}" drawable="asus_mail" />
+    <item component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}" drawable="asus_messages" />
+    <item component="ComponentInfo{com.sonyericsson.music/com.sonyericsson.music.MusicActivity}" drawable="asus_music" />
+    <item component="ComponentInfo{com.sonymobile.androidapp.audiorecorder/com.sonymobile.androidapp.audiorecorder.activity.MainActivity}" drawable="asus_sound_recorder" />
+    <item component="ComponentInfo{com.sonyericsson.video/com.sonyericsson.video.placeholderwrapper.MainActivity}" drawable="asus_video" />
+    <item component="ComponentInfo{com.sonymobile.moviecreator.rmm/com.sonymobile.moviecreator.rmm.LaunchActivity}" drawable="asus_mini_movie" />
+    <item component="ComponentInfo{com.sonymobile.xperiaweather/com.sonymobile.xperiaweather.MainActivity}" drawable="asus_weather" />
+    <item component="ComponentInfo{com.sonymobile.runtimeskinning.picker/com.sonymobile.runtimeskinning.picker.SkinPickerActivity}" drawable="asus_themes" />
+    <item component="ComponentInfo{com.sonymobile.runtimeskinning.picker/com.sonymobile.runtimeskinning.picker.PackagePickerActivity}" drawable="asus_themes" />
+    <item component="ComponentInfo{com.sonymobile.runtimeskinning.picker/com.sonymobile.runtimeskinning.picker.ApplySkinActivity}" drawable="asus_themes" />
+    <item component="ComponentInfo{com.sonymobile.runtimeskinning.picker/com.sonymobile.runtimeskinning.picker.AutoApplySkinActivity}" drawable="asus_themes" />
+
+    <!-- Xiaomi -->
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="asus_browser" />
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="asus_calendar" />
+    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}" drawable="asus_calculator" />
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="asus_clock" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="asus_phone" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.TwelveKeyDialer}" drawable="asus_phone" />
+    <item component="ComponentInfo{com.android.fileexplorer/com.android.fileexplorer.FileExplorerTabActivity}" drawable="asus_files" />
+    <item component="ComponentInfo{com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity}" drawable="asus_files" />
+    <item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="asus_gallery" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MmsTabActivity}" drawable="asus_messages" />
+    <item component="ComponentInfo{com.miui.notes/com.miui.notes.ui.NotesListActivity}" drawable="asus_memo" />
+    <item component="ComponentInfo{com.miui.player/com.miui.player.ui.MusicBrowserActivity}" drawable="asus_music" />
+    <item component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmActivity}" drawable="asus_radio" />
+    <item component="ComponentInfo{com.miui.videoplayer/com.miui.video.global.app.LauncherActivity}" drawable="asus_video" />
+    <item component="ComponentInfo{com.android.settings/com.android.settings.MainSettings}" drawable="asus_settings" />
+    <item component="ComponentInfo{com.miui.weather2/com.miui.weather2.ActivityWeatherMain}" drawable="asus_weather" />
+    <item component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}" drawable="asus_themes" />
+    <item component="ComponentInfo{com.miui.securitycenter/com.miui.securityscan.MainActivity}" drawable="asus_safeguard" />
+
+    <!-- LineageOS -->
+    <item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="asus_browser" />
+    <item component="ComponentInfo{org.lineageos.recorder/org.lineageos.recorder.RecorderActivity}" drawable="asus_sound_recorder" />
+    <item component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}" drawable="asus_camera" />
+    <item component="ComponentInfo{org.lineageos.audiofx/org.lineageos.audiofx.activity.ActivityMusic}" drawable="asus_audiowizard" />
+
+    <!-- CyanogenMod -->
+    <item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.activity.ActivityMusic}" drawable="asus_audiowizard" />
+    <item component="ComponentInfo{org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher}" drawable="asus_browser" />
+    <item component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="asus_camera" />
+    <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}" drawable="asus_files" />
+    <item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}" drawable="asus_music" />
+    <item component="ComponentInfo{org.cyanogenmod.theme.chooser2/org.cyanogenmod.theme.chooser2.ChooserLauncher}" drawable="asus_themes" />
+    <item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity}" drawable="asus_themes"/>
+
+    <!-- CAF -->
+    <item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="asus_camera" />
+    <item component="ComponentInfo{org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity}" drawable="asus_gallery" />
+
+</resources>
